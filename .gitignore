@@ -72,3 +72,30 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+StarterContent/
+Saved/
+Binaries/
+Build/
+Debug/
+Intermediate/
+DerivedDataCache/
+UnrealHeaderTool/
+UnrealPak/
+obj/
+Engine/Binaries/
+Engine/DerivedDataCache/
+Engine/Intermediate/
+Engine/Saved/
+Engine/Shaders/Binaries/
+*.apk
+*.apk
+GameName/Binaries/
+GameName/DerivedDataCache/
+GameName/Intermediate/
+GameName/Saved/
+Saved/Autosaves/PackageRestoreData.json
+Saved/Config/Windows/Engine.ini
+Saved/AutoScreenshot.png
+Saved/Autosaves/PackageRestoreData.json
